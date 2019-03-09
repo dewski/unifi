@@ -1,1 +1,7 @@
-.env
+/up.conf
+/unifi-poller
+/*.1.gz
+/*.1
+/vendor
+.DS_Store
+*~
